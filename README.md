@@ -8,6 +8,7 @@ npm install
 and for the dev environment
 ```console
 npm install ts-node-dev
+```
 
 run for auto update
 ```console
