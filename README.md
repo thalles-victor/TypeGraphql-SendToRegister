@@ -20,7 +20,7 @@ or
 npm start
 ```
 
-```
+
 Query:
 
 ```
