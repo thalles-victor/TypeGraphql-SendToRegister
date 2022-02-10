@@ -11,7 +11,7 @@ npm install ts-node-dev
 ```
 Query:
 
-```json
+```
 query {
   getMessage {
     text
