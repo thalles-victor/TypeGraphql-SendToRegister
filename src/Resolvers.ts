@@ -16,7 +16,7 @@ const prisma = new PrismaClient();
 
 @Resolver()
 export class RegisterResolver {
-  @Mutation( returns => [UserObject] )
+  @Mutation( returns => [ UserObject ] )
   async resgister(
     @Arg("data") data: UserInput
   ): Promise<UserObject[] | null>{
