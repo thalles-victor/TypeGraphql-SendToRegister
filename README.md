@@ -1,4 +1,4 @@
-Api hospedada na heroku usando TypeGraphQL e Apollo-Server.
+Api de teste que foi hospedada na heroku usando TypeGraphQL com Apollo-Server.
 
 Esquema para executar uma mutation nessa api usando o curl do linux.
 ```console
